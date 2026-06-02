@@ -1,131 +1,98 @@
 <div align="center">
 
-<!-- Hero Banner (VFX / Pixel Art / 3D feel GIF) -->
-<img src="https://i.pinimg.com/originals/18/84/01/188401306bd6a9e10283f518e3dd48d2.gif" width="100%" alt="Dark Pixel Cyberpunk Banner" />
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" alt="3D Vaporwave Cyberpunk Grid">
 
-<!-- Animated Glitch Text Greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);;Initializing+Sequence...;Access+Granted.+Welcome+Himanshu+Pandey." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=INITIATING+BOOT+SEQUENCE...;LOADING+3D+VOXEL+ENGINE...;SYSTEM+READY.;WELCOME+HIMANSHU+PANDEY" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Animated Divider" />
-</div>
+<!-- 3D VFX Orbs Loop -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l41YkfiXHEh8n0Kk0/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/l41YkfiXHEh8n0Kk0/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/l41YkfiXHEh8n0Kk0/giphy.gif" width="150" />
+</p>
 
 <br>
 
-<div align="center">
-  <a href="https://www.himanshupandey.me/"><img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=Google-Chrome&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/himanshupandey14"><img src="https://img.shields.io/badge/LinkedIn-00FF9D?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/userxx/"><img src="https://img.shields.io/badge/LeetCode-00FF9D?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</div>
-
-<br>
-
-<table align="center" width="100%">
+<table align="center" border="0" width="100%" style="background-color: #0D1117;">
 <tr>
-<td width="50%" valign="top">
+  <td width="35%" align="center">
+    <!-- Matrix / 3D Hacking GIF -->
+    <img src="https://media.giphy.com/media/10u6gt11vnm812/giphy.gif" width="100%" alt="Matrix 3D" />
+  </td>
+  <td width="65%" style="padding: 20px;">
+    <h3><code style="color: #00FF9D;">/// SYS.ADMIN: HIMANSHU PANDEY ///</code></h3>
+    <br>
+    <code>> ROLE : SOFTWARE ENGINEER [LVL 99]</code><br>
+    <code>> BASE : EARTH ORBIT</code><br>
+    <code>> FOCUS: WEB DEV, ALGORITHMS</code><br>
+    <code>> STATE: OPTIMIZING CORE LOGIC...</code><br>
+    <br><br>
+    <a href="https://www.himanshupandey.me/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=Web&logoColor=00FF9D&labelColor=0D1117&color=00FF9D" /></a>
+    <a href="https://www.linkedin.com/in/himanshupandey14"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D&labelColor=0D1117&color=00FF9D" /></a>
+    <a href="https://leetcode.com/u/userxx/"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9D&labelColor=0D1117&color=00FF9D" /></a>
+  </td>
+</tr>
+</table>
 
-### > WHOAMI
-```yaml
-Name: "Himanshu Pandey"
-Role: "Software Engineer"
-Base: "Earth"
-Status: "Writing Code & Drinking Coffee"
-Missions: ["Web Dev", "Automation", "VFX"]
-```
+<br>
 
-</td>
-<td width="50%" valign="top">
+<!-- Cyberpunk City Pixel Art Loop Divider -->
+<div align="center">
+  <img src="https://media.giphy.com/media/1xVbZRFEA1o3n313Yy/giphy.gif" width="100%" alt="Cyberpunk Divider" style="height: 120px; object-fit: cover;" />
+</div>
 
-### > CURRENT_PROCESSES
-```bash
-$ tail -f /var/log/life.log
-[INFO] Learning advanced rendering techniques.
-[INFO] Contributing to open source projects.
-[INFO] Refactoring legacy systems.
-[WARN] Coffee levels running dangerously low.
-```
+<br>
 
-</td>
+### <code style="color: #00FF9D;">/// EQUIPPED_GEAR</code>
+
+<table width="100%" align="center">
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" /><br><br><code>PYTHON</code></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" /><br><br><code>C++</code></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /><br><br><code>JS</code></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" /><br><br><code>REACT</code></td>
+</tr>
+<tr>
+  <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" /><br><br><code>TYPESCRIPT</code></td>
+  <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" /><br><br><code>NEXT.JS</code></td>
+  <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" /><br><br><code>DOCKER</code></td>
+  <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" /><br><br><code>GIT</code></td>
 </tr>
 </table>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Animated Divider" />
+  <img src="https://media.giphy.com/media/1xVbZRFEA1o3n313Yy/giphy.gif" width="100%" alt="Cyberpunk Divider" style="height: 120px; object-fit: cover;" />
 </div>
 
 <br>
 
-### > TECH_ARSENAL
+### <code style="color: #00FF9D;">/// TELEMETRY_DATA</code>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=14-himanshu&show_icons=true&title_color=00FF9D&text_color=FFFFFF&icon_color=00FF9D&bg_color=0D1117&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=14-himanshu&title_color=00FF9D&text_color=FFFFFF&icon_color=00FF9D&background=0D1117&hide_border=true&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<br>
+
+### <code style="color: #00FF9D;">/// CONTRIBUTION_GRID [SNAKE_AI_ENGAGED]</code>
 
 <div align="center">
-  
-<!-- Animated SVGs and Pixel Icons for Tech Stack -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br>
 
+<!-- Outro 3D / Retro Grid -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Animated Divider" />
-</div>
-
-<br>
-
-### > DYNAMIC_TELEMETRY
-
-<div align="center">
-
-<!-- Dark themed GitHub stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=14-himanshu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=14-himanshu&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Animated Divider" />
-</div>
-
-<br>
-
-### > CONTRIBUTION_SNAKE
-
-<div align="center">
-  
-<!-- Animated Snake (Requires GitHub Actions to generate, this is a placeholder URL) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-  <!-- End Banner (Pixel Art/Animated) -->
-  <img src="https://media.giphy.com/media/V8j6Bsq6yv91A23DqG/giphy.gif" width="100%" alt="End GIF" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jIGsnu/giphy.gif" width="100%" alt="Retro 3D Grid" style="height: 150px; object-fit: cover;" />
 </div>
