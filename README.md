@@ -46,16 +46,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=14-himanshu&show_icons=true&title_color=00d4ff&text_color=8ab4d4&icon_color=00d4ff&bg_color=060918&hide_border=true&rank_icon=github&card_width=400" height="170" alt="Stats"/>
+<img src="https://github-readme-stats-eight-nu-63.vercel.app/api?username=14-himanshu&show_icons=true&title_color=00d4ff&text_color=8ab4d4&icon_color=00d4ff&bg_color=060918&hide_border=true&rank_icon=github&card_width=400" height="170" alt="Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=14-himanshu&background=060918&ring=00d4ff&fire=bf5fff&currStreakLabel=00d4ff&sideLabels=8ab4d4&currStreakNum=ffffff&sideNums=8ab4d4&dates=556a82&hide_border=true" height="170" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=14-himanshu&background=060918&ring=00d4ff&fire=bf5fff&currStreakLabel=00d4ff&sideLabels=8ab4d4&currStreakNum=ffffff&sideNums=8ab4d4&dates=556a82&hide_border=true" height="170" alt="Streak"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=14-himanshu&layout=compact&bg_color=060918&title_color=00d4ff&text_color=8ab4d4&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
+<img src="https://github-readme-stats-eight-nu-63.vercel.app/api/top-langs/?username=14-himanshu&layout=compact&bg_color=060918&title_color=00d4ff&text_color=8ab4d4&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
 </div>
 
 <br/>
