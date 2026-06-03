@@ -1,85 +1,61 @@
-<div align="center">
+# Himanshu Pandey
 
-<!-- Pure SVG Animated Hero Banner (No GIFs!) -->
-<img src="./hero_galaxy.svg" width="100%" alt="Animated Space Galaxy Banner">
+**Full-Stack Developer | Software Engineer**
 
-</div>
+## Professional Introduction
 
-<br>
+I am a Full-Stack Developer and Software Engineering enthusiast with a strong focus on building scalable web applications, AI-powered products, and modern software solutions. I am driven by a passion for continuous learning, complex problem-solving, and end-to-end product development. My objective is to engineer robust, high-performance applications that deliver significant value and exceptional user experiences.
 
-<table align="center" border="0" width="100%" style="background-color: #050510;">
-<tr>
-  <td width="100%" style="padding: 20px;">
-    <h3><code style="color: #00FF9D;">/// SYS.ADMIN: HIMANSHU PANDEY ///</code></h3>
-    <br>
-    <code>> ROLE : SOFTWARE ENGINEER [LVL 99]</code><br>
-    <code>> BASE : EARTH ORBIT</code><br>
-    <code>> FOCUS: WEB DEV, ALGORITHMS, 3D ENGINES</code><br>
-    <code>> STATE: CHARTING NEW GALAXIES...</code><br>
-    <br><br>
-    <a href="https://www.himanshupandey.me/"><img src="https://img.shields.io/badge/PORTFOLIO-050510?style=for-the-badge&logo=Web&logoColor=00FF9D&labelColor=050510&color=00FF9D" /></a>
-    <a href="https://www.linkedin.com/in/himanshupandey14"><img src="https://img.shields.io/badge/LINKEDIN-050510?style=for-the-badge&logo=linkedin&logoColor=00FF9D&labelColor=050510&color=00FF9D" /></a>
-    <a href="https://leetcode.com/u/userxx/"><img src="https://img.shields.io/badge/LEETCODE-050510?style=for-the-badge&logo=leetcode&logoColor=00FF9D&labelColor=050510&color=00FF9D" /></a>
-  </td>
-</tr>
-</table>
+## Technical Skills
 
-<br>
+* **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Programming Languages:** JavaScript, C++
+* **Tools & Workflow:** Git, GitHub, Postman, Figma, VS Code
 
-<!-- Animated SVG Starry Divider -->
-<div align="center">
-  <img src="./divider_galaxy.svg" width="100%" alt="Starry Divider" style="height: 40px; object-fit: cover;" />
-</div>
+## Featured Projects
 
-<br>
+### Slate
+A modern real-time communication and collaboration platform. Engineered using modern web technologies to support secure authentication, real-time messaging, and a highly scalable architecture. The development process heavily prioritized user experience, application performance, and long-term code maintainability.
 
-### <code style="color: #00FF9D;">/// EQUIPPED_GEAR</code>
+### Second Brain
+An AI-powered knowledge management platform designed to allow users to capture, organize, search, and retrieve information efficiently. This project emphasizes seamless AI integration to enhance productivity and streamline advanced information retrieval processes.
 
-<table width="100%" align="center">
-<tr>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" /><br><br><code>PYTHON</code></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" /><br><br><code>C++</code></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /><br><br><code>JS</code></td>
-  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" /><br><br><code>REACT</code></td>
-</tr>
-<tr>
-  <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" /><br><br><code>TYPESCRIPT</code></td>
-  <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" /><br><br><code>NEXT.JS</code></td>
-  <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" /><br><br><code>DOCKER</code></td>
-  <td align="center"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" /><br><br><code>GIT</code></td>
-</tr>
-</table>
+### Body Measurements Tracker
+A comprehensive health and fitness tracking platform built utilizing React and Tailwind CSS. The application provides users with features for detailed progress tracking, data analytics, and personalized health insights.
 
-<br>
+## Current Focus
 
-<div align="center">
-  <img src="./divider_galaxy.svg" width="100%" alt="Starry Divider" style="height: 40px; object-fit: cover;" />
-</div>
+* Full-Stack Development
+* System Design Fundamentals
+* Data Structures and Algorithms
+* AI Agents and LLM Applications
+* Open Source Contributions
 
-<br>
+## Professional Interests
 
-### <code style="color: #00FF9D;">/// TELEMETRY_DATA</code>
+* Software Engineering
+* Artificial Intelligence
+* Product Development
+* Web Technologies
+* Scalable Systems
+* Open Source
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=14-himanshu&show_icons=true&title_color=00FF9D&text_color=FFFFFF&icon_color=00FF9D&bg_color=050510&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=14-himanshu&title_color=00FF9D&text_color=FFFFFF&icon_color=00FF9D&background=050510&hide_border=true&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+---
 
-<br>
+## GitHub Profile Optimization (For Review)
 
-### <code style="color: #00FF9D;">/// CONTRIBUTION_GRID [SNAKE_AI_ENGAGED]</code>
+### GitHub Bio Suggestions (Under 160 Characters)
+1. Full-Stack Developer & CS student building scalable web apps and AI-powered tools. Passionate about software engineering and open-source contributions.
+2. Software Engineering enthusiast specializing in React, Node.js, and AI integrations. Focused on building robust, high-performance web applications.
+3. Aspiring Software Engineer | Full-Stack Developer building modern, scalable web solutions. Focused on product engineering and system design.
+4. CS Student & Full-Stack Developer. Building real-time applications and AI-driven platforms. Dedicated to problem-solving and clean code architecture.
+5. Full-Stack Developer focused on scalable web technologies and Artificial Intelligence. Continuously learning and building impactful software products.
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/14-himanshu/14-himanshu/output/github-contribution-grid-snake-dark.svg">
-    <!-- Note: SVG files are used here, not GIFs -->
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/14-himanshu/14-himanshu/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
-<br>
-
-<!-- Outro Animated SVG -->
-<div align="center">
-  <img src="./divider_galaxy.svg" width="100%" alt="Starry Divider" style="height: 40px; object-fit: cover;" />
-</div>
+### GitHub Profile Headline Suggestions
+1. Full-Stack Developer | Software Engineering Student | AI Enthusiast
+2. Aspiring Software Engineer Specializing in Modern Web Applications and Scalable Systems
+3. Full-Stack Web Developer | React & Node.js | Product Engineering
+4. Software Engineering Student Focused on Full-Stack Development and AI Solutions
+5. Full-Stack Developer | Passionate About Building Scalable & Intelligent Applications
