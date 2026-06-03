@@ -1,0 +1,346 @@
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .bg { fill: #050510; }
+  .star1 { animation: twinkle 2s infinite alternate; fill: #ffffff; }
+  .star2 { animation: twinkle 4s infinite alternate; fill: #bbbbff; }
+  .star3 { animation: twinkle 1.5s infinite alternate; fill: #ffbbbb; }
+  .shooting-star { animation: shoot 5s linear infinite; stroke: #ffffff; stroke-width: 2; stroke-dasharray: 100; stroke-dashoffset: 100; opacity: 0; }
+  .planet-layer1 { animation: pulse3d 4s ease-in-out infinite alternate; }
+  .planet-layer2 { animation: pulse3d 4.2s ease-in-out infinite alternate; }
+  
+  @keyframes twinkle {
+    0% { opacity: 0.1; }
+    100% { opacity: 1; }
+  }
+  @keyframes shoot {
+    0% { transform: translate(0, 0); opacity: 1; stroke-dashoffset: 100; }
+    10% { transform: translate(-300px, 300px); opacity: 1; stroke-dashoffset: 0; }
+    11% { opacity: 0; }
+    100% { opacity: 0; }
+  }
+  @keyframes pulse3d {
+    0% { transform: scale(1) translate(0px, 0px); }
+    100% { transform: scale(1.02) translate(-2px, -2px); }
+  }
+  .title { font-family: monospace; font-size: 28px; font-weight: bold; fill: #00FF9D; letter-spacing: 2px; }
+  .subtitle { font-family: monospace; font-size: 14px; fill: #aaaaaa; }
+</style>
+
+<rect width="800" height="300" class="bg" />
+
+<!-- Stars -->
+<rect x="159" y="78" width="3" height="3" class="star3" />
+<rect x="661" y="117" width="1" height="1" class="star1" />
+<rect x="762" y="270" width="2" height="2" class="star1" />
+<rect x="715" y="297" width="3" height="3" class="star1" />
+<rect x="133" y="74" width="3" height="3" class="star1" />
+<rect x="658" y="18" width="3" height="3" class="star1" />
+<rect x="525" y="98" width="2" height="2" class="star3" />
+<rect x="651" y="212" width="3" height="3" class="star2" />
+<rect x="39" y="280" width="2" height="2" class="star2" />
+<rect x="133" y="51" width="2" height="2" class="star2" />
+<rect x="448" y="211" width="2" height="2" class="star1" />
+<rect x="517" y="212" width="3" height="3" class="star1" />
+<rect x="133" y="223" width="3" height="3" class="star1" />
+<rect x="344" y="191" width="1" height="1" class="star3" />
+<rect x="348" y="150" width="1" height="1" class="star2" />
+<rect x="159" y="174" width="3" height="3" class="star2" />
+<rect x="531" y="6" width="3" height="3" class="star3" />
+<rect x="281" y="71" width="2" height="2" class="star3" />
+<rect x="159" y="268" width="1" height="1" class="star2" />
+<rect x="9" y="272" width="2" height="2" class="star1" />
+<rect x="308" y="214" width="3" height="3" class="star3" />
+<rect x="265" y="154" width="2" height="2" class="star2" />
+<rect x="412" y="279" width="3" height="3" class="star3" />
+<rect x="99" y="68" width="3" height="3" class="star3" />
+<rect x="62" y="25" width="2" height="2" class="star1" />
+<rect x="601" y="237" width="1" height="1" class="star1" />
+<rect x="797" y="44" width="1" height="1" class="star1" />
+<rect x="64" y="4" width="2" height="2" class="star3" />
+<rect x="351" y="51" width="2" height="2" class="star3" />
+<rect x="577" y="38" width="3" height="3" class="star1" />
+<rect x="610" y="15" width="3" height="3" class="star1" />
+<rect x="218" y="210" width="3" height="3" class="star1" />
+<rect x="749" y="161" width="1" height="1" class="star2" />
+<rect x="537" y="12" width="1" height="1" class="star3" />
+<rect x="530" y="227" width="1" height="1" class="star2" />
+<rect x="579" y="143" width="1" height="1" class="star2" />
+<rect x="41" y="272" width="1" height="1" class="star1" />
+<rect x="109" y="200" width="1" height="1" class="star2" />
+<rect x="68" y="251" width="1" height="1" class="star2" />
+<rect x="595" y="256" width="2" height="2" class="star3" />
+<rect x="331" y="294" width="1" height="1" class="star2" />
+<rect x="681" y="121" width="3" height="3" class="star1" />
+<rect x="353" y="14" width="3" height="3" class="star1" />
+<rect x="229" y="172" width="3" height="3" class="star2" />
+<rect x="744" y="33" width="1" height="1" class="star1" />
+<rect x="732" y="3" width="1" height="1" class="star3" />
+<rect x="254" y="110" width="2" height="2" class="star3" />
+<rect x="354" y="283" width="3" height="3" class="star3" />
+<rect x="127" y="258" width="1" height="1" class="star3" />
+<rect x="460" y="279" width="3" height="3" class="star1" />
+<rect x="98" y="177" width="1" height="1" class="star1" />
+<rect x="467" y="271" width="1" height="1" class="star3" />
+<rect x="779" y="200" width="2" height="2" class="star1" />
+<rect x="336" y="179" width="2" height="2" class="star2" />
+<rect x="203" y="52" width="3" height="3" class="star3" />
+<rect x="513" y="74" width="3" height="3" class="star1" />
+<rect x="774" y="119" width="1" height="1" class="star1" />
+<rect x="63" y="18" width="2" height="2" class="star3" />
+<rect x="575" y="261" width="2" height="2" class="star3" />
+<rect x="62" y="296" width="2" height="2" class="star3" />
+<rect x="460" y="111" width="1" height="1" class="star3" />
+<rect x="533" y="241" width="2" height="2" class="star3" />
+<rect x="32" y="211" width="3" height="3" class="star3" />
+<rect x="449" y="51" width="1" height="1" class="star3" />
+<rect x="615" y="75" width="2" height="2" class="star2" />
+<rect x="679" y="274" width="1" height="1" class="star1" />
+<rect x="524" y="4" width="3" height="3" class="star2" />
+<rect x="331" y="194" width="3" height="3" class="star2" />
+<rect x="763" y="29" width="3" height="3" class="star1" />
+<rect x="368" y="135" width="2" height="2" class="star3" />
+<rect x="204" y="271" width="2" height="2" class="star2" />
+<rect x="147" y="294" width="2" height="2" class="star2" />
+<rect x="469" y="168" width="3" height="3" class="star2" />
+<rect x="243" y="269" width="1" height="1" class="star2" />
+<rect x="553" y="103" width="2" height="2" class="star3" />
+<rect x="572" y="82" width="2" height="2" class="star1" />
+<rect x="144" y="132" width="2" height="2" class="star3" />
+<rect x="65" y="167" width="1" height="1" class="star2" />
+<rect x="271" y="145" width="2" height="2" class="star2" />
+<rect x="74" y="53" width="1" height="1" class="star1" />
+<rect x="612" y="269" width="3" height="3" class="star1" />
+<rect x="4" y="144" width="1" height="1" class="star1" />
+<rect x="110" y="119" width="2" height="2" class="star2" />
+<rect x="345" y="180" width="2" height="2" class="star3" />
+<rect x="435" y="206" width="2" height="2" class="star2" />
+<rect x="429" y="140" width="1" height="1" class="star1" />
+<rect x="730" y="43" width="1" height="1" class="star3" />
+<rect x="581" y="236" width="1" height="1" class="star3" />
+<rect x="769" y="88" width="3" height="3" class="star2" />
+<rect x="339" y="180" width="1" height="1" class="star2" />
+<rect x="615" y="26" width="2" height="2" class="star2" />
+<rect x="253" y="143" width="1" height="1" class="star2" />
+<rect x="600" y="104" width="3" height="3" class="star1" />
+<rect x="531" y="40" width="1" height="1" class="star1" />
+<rect x="744" y="143" width="2" height="2" class="star2" />
+<rect x="208" y="52" width="3" height="3" class="star2" />
+<rect x="433" y="291" width="3" height="3" class="star2" />
+<rect x="765" y="290" width="2" height="2" class="star1" />
+<rect x="34" y="139" width="1" height="1" class="star1" />
+<rect x="221" y="105" width="2" height="2" class="star2" />
+<rect x="99" y="123" width="1" height="1" class="star3" />
+<rect x="652" y="269" width="3" height="3" class="star1" />
+<rect x="529" y="234" width="2" height="2" class="star2" />
+<rect x="249" y="211" width="3" height="3" class="star3" />
+<rect x="19" y="237" width="1" height="1" class="star1" />
+<rect x="468" y="105" width="3" height="3" class="star2" />
+<rect x="356" y="246" width="1" height="1" class="star1" />
+<rect x="478" y="90" width="3" height="3" class="star3" />
+<rect x="520" y="157" width="2" height="2" class="star1" />
+<rect x="762" y="219" width="2" height="2" class="star3" />
+<rect x="16" y="280" width="2" height="2" class="star1" />
+<rect x="280" y="267" width="3" height="3" class="star3" />
+<rect x="198" y="86" width="2" height="2" class="star1" />
+<rect x="395" y="3" width="3" height="3" class="star1" />
+<rect x="430" y="80" width="3" height="3" class="star3" />
+<rect x="301" y="192" width="3" height="3" class="star1" />
+<rect x="600" y="17" width="1" height="1" class="star1" />
+<rect x="796" y="205" width="2" height="2" class="star2" />
+<rect x="527" y="238" width="1" height="1" class="star3" />
+<rect x="239" y="160" width="2" height="2" class="star1" />
+<rect x="179" y="15" width="3" height="3" class="star3" />
+<rect x="286" y="180" width="3" height="3" class="star1" />
+<rect x="730" y="44" width="1" height="1" class="star3" />
+<rect x="195" y="294" width="3" height="3" class="star3" />
+<rect x="44" y="295" width="2" height="2" class="star2" />
+<rect x="776" y="272" width="1" height="1" class="star3" />
+<rect x="288" y="180" width="1" height="1" class="star1" />
+<rect x="585" y="70" width="1" height="1" class="star1" />
+<rect x="620" y="209" width="1" height="1" class="star2" />
+<rect x="791" y="70" width="2" height="2" class="star3" />
+<rect x="11" y="28" width="2" height="2" class="star3" />
+<rect x="548" y="285" width="2" height="2" class="star1" />
+<rect x="498" y="274" width="2" height="2" class="star1" />
+<rect x="209" y="244" width="2" height="2" class="star2" />
+<rect x="696" y="17" width="3" height="3" class="star1" />
+<rect x="95" y="284" width="2" height="2" class="star1" />
+<rect x="162" y="194" width="3" height="3" class="star3" />
+<rect x="789" y="176" width="2" height="2" class="star1" />
+<rect x="58" y="201" width="2" height="2" class="star1" />
+<rect x="366" y="241" width="2" height="2" class="star2" />
+<rect x="387" y="240" width="1" height="1" class="star3" />
+<rect x="383" y="136" width="1" height="1" class="star2" />
+<rect x="124" y="53" width="2" height="2" class="star3" />
+<rect x="151" y="9" width="2" height="2" class="star2" />
+<rect x="114" y="234" width="1" height="1" class="star1" />
+<rect x="655" y="293" width="2" height="2" class="star1" />
+<rect x="650" y="200" width="1" height="1" class="star2" />
+<rect x="82" y="107" width="2" height="2" class="star1" />
+<rect x="291" y="239" width="3" height="3" class="star2" />
+<rect x="625" y="168" width="2" height="2" class="star2" />
+<rect x="276" y="184" width="3" height="3" class="star1" />
+<rect x="562" y="60" width="1" height="1" class="star2" />
+<rect x="674" y="129" width="1" height="1" class="star3" />
+<rect x="244" y="193" width="1" height="1" class="star3" />
+<rect x="277" y="45" width="3" height="3" class="star1" />
+<rect x="771" y="189" width="3" height="3" class="star1" />
+<rect x="144" y="103" width="1" height="1" class="star2" />
+<rect x="582" y="81" width="1" height="1" class="star3" />
+<rect x="413" y="45" width="2" height="2" class="star2" />
+<rect x="290" y="219" width="3" height="3" class="star1" />
+<rect x="568" y="227" width="1" height="1" class="star1" />
+<rect x="420" y="160" width="3" height="3" class="star1" />
+<rect x="311" y="163" width="2" height="2" class="star3" />
+<rect x="98" y="20" width="2" height="2" class="star2" />
+<rect x="598" y="29" width="3" height="3" class="star1" />
+<rect x="438" y="217" width="1" height="1" class="star2" />
+<rect x="373" y="239" width="2" height="2" class="star3" />
+<rect x="641" y="288" width="2" height="2" class="star1" />
+<rect x="106" y="278" width="2" height="2" class="star3" />
+<rect x="178" y="287" width="2" height="2" class="star3" />
+<rect x="773" y="152" width="1" height="1" class="star2" />
+<rect x="118" y="158" width="1" height="1" class="star3" />
+<rect x="140" y="234" width="2" height="2" class="star1" />
+<rect x="686" y="25" width="2" height="2" class="star2" />
+<rect x="384" y="279" width="2" height="2" class="star2" />
+<rect x="82" y="40" width="2" height="2" class="star2" />
+<rect x="197" y="292" width="2" height="2" class="star2" />
+<rect x="454" y="20" width="1" height="1" class="star3" />
+<rect x="535" y="69" width="2" height="2" class="star2" />
+<rect x="538" y="194" width="2" height="2" class="star2" />
+<rect x="787" y="52" width="3" height="3" class="star3" />
+<rect x="12" y="111" width="3" height="3" class="star3" />
+<rect x="791" y="141" width="2" height="2" class="star2" />
+<rect x="551" y="16" width="1" height="1" class="star2" />
+<rect x="742" y="112" width="2" height="2" class="star3" />
+<rect x="386" y="292" width="1" height="1" class="star1" />
+<rect x="387" y="21" width="3" height="3" class="star3" />
+<rect x="775" y="114" width="1" height="1" class="star1" />
+<rect x="211" y="58" width="3" height="3" class="star2" />
+<rect x="108" y="41" width="2" height="2" class="star1" />
+<rect x="117" y="298" width="2" height="2" class="star1" />
+<rect x="569" y="291" width="1" height="1" class="star1" />
+<rect x="200" y="21" width="1" height="1" class="star2" />
+<rect x="344" y="28" width="3" height="3" class="star3" />
+<rect x="755" y="20" width="1" height="1" class="star1" />
+<rect x="289" y="183" width="2" height="2" class="star3" />
+<rect x="329" y="211" width="2" height="2" class="star1" />
+<rect x="52" y="47" width="2" height="2" class="star3" />
+<rect x="664" y="260" width="1" height="1" class="star2" />
+<rect x="54" y="254" width="2" height="2" class="star2" />
+<rect x="553" y="291" width="2" height="2" class="star1" />
+<rect x="703" y="18" width="2" height="2" class="star3" />
+<rect x="722" y="71" width="1" height="1" class="star2" />
+<rect x="723" y="212" width="1" height="1" class="star1" />
+<rect x="215" y="37" width="1" height="1" class="star2" />
+<rect x="472" y="272" width="2" height="2" class="star1" />
+<rect x="552" y="228" width="1" height="1" class="star3" />
+<rect x="682" y="11" width="2" height="2" class="star3" />
+<rect x="592" y="127" width="3" height="3" class="star1" />
+<rect x="307" y="280" width="3" height="3" class="star1" />
+<rect x="689" y="11" width="2" height="2" class="star3" />
+<rect x="210" y="196" width="1" height="1" class="star2" />
+<rect x="199" y="296" width="2" height="2" class="star2" />
+<rect x="371" y="107" width="1" height="1" class="star3" />
+<rect x="349" y="188" width="1" height="1" class="star1" />
+<rect x="194" y="34" width="1" height="1" class="star2" />
+<rect x="389" y="76" width="2" height="2" class="star1" />
+<rect x="631" y="162" width="3" height="3" class="star1" />
+<rect x="275" y="69" width="1" height="1" class="star3" />
+<rect x="394" y="17" width="2" height="2" class="star3" />
+<rect x="581" y="74" width="3" height="3" class="star2" />
+<rect x="386" y="59" width="1" height="1" class="star2" />
+<rect x="524" y="0" width="3" height="3" class="star1" />
+<rect x="218" y="293" width="3" height="3" class="star1" />
+<rect x="706" y="289" width="3" height="3" class="star1" />
+<rect x="112" y="232" width="3" height="3" class="star2" />
+<rect x="372" y="244" width="2" height="2" class="star2" />
+<rect x="379" y="112" width="3" height="3" class="star3" />
+<rect x="538" y="72" width="1" height="1" class="star1" />
+<rect x="175" y="115" width="3" height="3" class="star1" />
+<rect x="380" y="167" width="1" height="1" class="star1" />
+<rect x="562" y="259" width="3" height="3" class="star2" />
+<rect x="231" y="12" width="3" height="3" class="star3" />
+<rect x="209" y="138" width="1" height="1" class="star2" />
+<rect x="246" y="145" width="2" height="2" class="star2" />
+<rect x="710" y="266" width="3" height="3" class="star1" />
+<rect x="771" y="165" width="3" height="3" class="star3" />
+<rect x="166" y="194" width="2" height="2" class="star3" />
+<rect x="288" y="268" width="3" height="3" class="star3" />
+<rect x="673" y="245" width="2" height="2" class="star3" />
+<rect x="403" y="259" width="3" height="3" class="star2" />
+<rect x="59" y="252" width="2" height="2" class="star1" />
+<rect x="768" y="185" width="3" height="3" class="star3" />
+<rect x="387" y="135" width="3" height="3" class="star3" />
+<rect x="722" y="23" width="1" height="1" class="star1" />
+<rect x="231" y="2" width="1" height="1" class="star1" />
+<rect x="516" y="236" width="1" height="1" class="star2" />
+<rect x="233" y="24" width="2" height="2" class="star2" />
+<rect x="767" y="17" width="2" height="2" class="star2" />
+<rect x="346" y="130" width="2" height="2" class="star1" />
+
+<line x1="700" y1="0" x2="600" y2="100" class="shooting-star" style="animation-delay: 1s;" />
+<line x1="400" y1="-50" x2="300" y2="50" class="shooting-star" style="animation-delay: 3s;" />
+
+<!-- A 3D-ish Pixel Planet -->
+<g transform="translate(650, 100)">
+  <!-- Shadow / Base Layer -->
+  <circle cx="0" cy="0" r="40" fill="#111133" class="planet-layer1" />
+  <!-- Mid Layer (Pixelated look using rects inside a clip path) -->
+  <clipPath id="planet-clip">
+    <circle cx="0" cy="0" r="40" />
+  </clipPath>
+  <g clip-path="url(#planet-clip)" class="planet-layer2">
+<rect x="33" y="16" width="10" height="10" fill="#222255" />
+<rect x="-37" y="-21" width="8" height="8" fill="#333366" />
+<rect x="1" y="-18" width="9" height="9" fill="#333366" />
+<rect x="31" y="-8" width="10" height="10" fill="#333366" />
+<rect x="-19" y="27" width="8" height="8" fill="#222255" />
+<rect x="-39" y="25" width="4" height="4" fill="#444488" />
+<rect x="-3" y="34" width="8" height="8" fill="#333366" />
+<rect x="27" y="-22" width="7" height="7" fill="#333366" />
+<rect x="-7" y="7" width="8" height="8" fill="#222255" />
+<rect x="28" y="-11" width="9" height="9" fill="#333366" />
+<rect x="0" y="-22" width="9" height="9" fill="#333366" />
+<rect x="-14" y="-3" width="5" height="5" fill="#444488" />
+<rect x="-32" y="40" width="8" height="8" fill="#222255" />
+<rect x="-10" y="-30" width="4" height="4" fill="#222255" />
+<rect x="-33" y="30" width="10" height="10" fill="#444488" />
+<rect x="-25" y="31" width="8" height="8" fill="#333366" />
+<rect x="-32" y="7" width="7" height="7" fill="#444488" />
+<rect x="2" y="9" width="4" height="4" fill="#222255" />
+<rect x="-14" y="-8" width="5" height="5" fill="#222255" />
+<rect x="-26" y="11" width="9" height="9" fill="#444488" />
+<rect x="29" y="-33" width="4" height="4" fill="#333366" />
+<rect x="38" y="22" width="5" height="5" fill="#222255" />
+<rect x="-8" y="-15" width="7" height="7" fill="#444488" />
+<rect x="-4" y="-4" width="8" height="8" fill="#222255" />
+<rect x="-33" y="4" width="10" height="10" fill="#333366" />
+<rect x="21" y="8" width="4" height="4" fill="#333366" />
+<rect x="-40" y="15" width="6" height="6" fill="#333366" />
+<rect x="11" y="-40" width="6" height="6" fill="#333366" />
+<rect x="-24" y="-15" width="8" height="8" fill="#333366" />
+<rect x="21" y="-38" width="8" height="8" fill="#333366" />
+<rect x="15" y="26" width="9" height="9" fill="#444488" />
+<rect x="38" y="27" width="10" height="10" fill="#222255" />
+<rect x="10" y="27" width="5" height="5" fill="#222255" />
+<rect x="-4" y="-27" width="4" height="4" fill="#444488" />
+<rect x="22" y="29" width="9" height="9" fill="#333366" />
+<rect x="-6" y="38" width="6" height="6" fill="#222255" />
+<rect x="-36" y="7" width="10" height="10" fill="#444488" />
+<rect x="38" y="-22" width="6" height="6" fill="#222255" />
+<rect x="23" y="-10" width="8" height="8" fill="#222255" />
+<rect x="-29" y="-24" width="4" height="4" fill="#222255" />
+
+  </g>
+  <!-- Highlight to give 3D effect -->
+  <path d="M-28 -28 A 40 40 0 0 1 28 28 A 30 30 0 0 0 -28 -28" fill="#ffffff" opacity="0.1" />
+</g>
+
+<!-- Text overlay -->
+<text x="50" y="140" class="title">> HIMANSHU PANDEY</text>
+<text x="50" y="170" class="subtitle">SOFTWARE ENGINEER / GALAXY EXPLORER</text>
+<text x="50" y="190" class="subtitle">STATUS: BUILDING 3D ENGINES IN SPACE</text>
+
+</svg>
