@@ -11,6 +11,11 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-060918?style=for-the-badge&logo=leetcode&logoColor=00d4ff)](https://leetcode.com/u/userxx/)
 [![GitHub](https://img.shields.io/badge/GitHub-060918?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/14-himanshu)
 
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=14-himanshu&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile Views" />
+
 </div>
 
 <img src="./divider.svg" width="100%" alt=""/>
