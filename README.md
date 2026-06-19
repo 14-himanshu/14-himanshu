@@ -19,7 +19,7 @@
 
 <div align="center">
 
-```
+```text
   CS Student  ·  Full-Stack Engineer  ·  Building things that scale
   React / Next.js  ·  Node.js  ·  MongoDB  ·  AI Integrations
 ```
@@ -46,21 +46,33 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-nu-63.vercel.app/api?username=14-himanshu&show_icons=true&title_color=00d4ff&text_color=8ab4d4&icon_color=00d4ff&bg_color=060918&hide_border=true&rank_icon=github&card_width=400" height="170" alt="Stats"/>
+<img src="https://github-readme-stats-eight-nu-63.vercel.app/api?username=14-himanshu&show_icons=true&title_color=00d4ff&text_color=8ab4d4&icon_color=00d4ff&bg_color=060918&hide_border=true&rank_icon=github&card_width=400&v=1" height="170" alt="Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats-six.vercel.app/?user=14-himanshu&background=060918&ring=00d4ff&fire=bf5fff&currStreakLabel=00d4ff&sideLabels=8ab4d4&currStreakNum=ffffff&sideNums=8ab4d4&dates=556a82&hide_border=true" height="170" alt="Streak"/>
+<img src="https://github-readme-streak-stats-six.vercel.app/?user=14-himanshu&background=060918&ring=00d4ff&fire=bf5fff&currStreakLabel=00d4ff&sideLabels=8ab4d4&currStreakNum=ffffff&sideNums=8ab4d4&dates=556a82&hide_border=true&v=1" height="170" alt="Streak"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats-eight-nu-63.vercel.app/api/top-langs/?username=14-himanshu&layout=compact&bg_color=060918&title_color=00d4ff&text_color=8ab4d4&hide_border=true&langs_count=8" height="150" alt="Top Languages"/>
+<img src="https://github-readme-stats-eight-nu-63.vercel.app/api/top-langs/?username=14-himanshu&layout=compact&bg_color=060918&title_color=00d4ff&text_color=8ab4d4&hide_border=true&langs_count=8&v=1" height="150" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <img src="./divider.svg" width="100%" alt=""/>
+
+<br/>
+
+<div align="center">
+
+**🌟 Open Source Contributions**
+
+[![Rocket.Chat](https://img.shields.io/badge/Rocket.Chat-Open_Source-060918?style=flat-square&logo=rocketchat&logoColor=f5455c&labelColor=0d1a35&color=f5455c)](https://github.com/RocketChat/Rocket.Chat/pulls/14-himanshu)
+<br/>
+<sub>Fixed a critical SSRF vulnerability & resolved React hook violations in the core engine.</sub>
+
+</div>
 
 <br/>
 
@@ -95,8 +107,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/14-himanshu/14-himanshu/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/14-himanshu/14-himanshu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/14-himanshu/14-himanshu/output/github-contribution-grid-snake-dark.svg?v=1">
+  <img src="https://raw.githubusercontent.com/14-himanshu/14-himanshu/output/github-contribution-grid-snake.svg?v=1" width="100%" alt="Contribution Snake"/>
 </picture>
 </div>
 
