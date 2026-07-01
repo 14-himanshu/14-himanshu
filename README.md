@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-060918?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://www.himanshupandey.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-060918?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/himanshupandey14)
 [![LeetCode](https://img.shields.io/badge/LeetCode-060918?style=for-the-badge&logo=leetcode&logoColor=00d4ff)](https://leetcode.com/u/userxx/)
-[![GitHub](https://img.shields.io/badge/GitHub-060918?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/14-himanshu)
 
 <br/>
 <br/>
@@ -24,10 +23,7 @@
 
 <div align="center">
 
-```text
-  CS Student  ·  Full-Stack Engineer  ·  Building things that scale
-  React / Next.js  ·  Node.js  ·  MongoDB  ·  AI Integrations
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+scalable+web+applications;Integrating+AI+into+everyday+tools" alt="Typing SVG" /></a>
 
 </div>
 
@@ -85,11 +81,16 @@
 
 **Projects**
 
-[![Slate](https://img.shields.io/badge/Slate-Real--Time+Collaboration-060918?style=flat-square&logo=socketdotio&logoColor=00d4ff&labelColor=0d1a35&color=00d4ff)](https://github.com/14-himanshu)
+[![Slate](https://img.shields.io/badge/Slate-Real--Time+Collaboration-060918?style=flat-square&logo=socketdotio&logoColor=00d4ff&labelColor=0d1a35&color=00d4ff)](https://github.com/14-himanshu/slate)
 &nbsp;
-[![Second Brain](https://img.shields.io/badge/Second_Brain-AI+Knowledge+Platform-060918?style=flat-square&logo=openai&logoColor=bf5fff&labelColor=1a0533&color=bf5fff)](https://github.com/14-himanshu)
+[![Second Brain](https://img.shields.io/badge/Second_Brain-AI+Knowledge+Platform-060918?style=flat-square&logo=openai&logoColor=bf5fff&labelColor=1a0533&color=bf5fff)](https://github.com/14-himanshu/secondbrain-monorepo)
 &nbsp;
-[![Body Tracker](https://img.shields.io/badge/Body_Tracker-Health+%26+Fitness-060918?style=flat-square&logo=react&logoColor=39ff14&labelColor=0a1a0a&color=39ff14)](https://github.com/14-himanshu)
+[![Vitality AI](https://img.shields.io/badge/Vitality_AI-Health+%26+Fitness-060918?style=flat-square&logo=react&logoColor=39ff14&labelColor=0a1a0a&color=39ff14)](https://github.com/14-himanshu/vitality-ai)
+
+<br/>
+<br/>
+
+[![Webhook Orchestrator](https://img.shields.io/badge/Webhook_Orchestrator-Event--Driven+API-060918?style=flat-square&logo=nodedotjs&logoColor=00d4ff&labelColor=0d1a35&color=00d4ff)](https://github.com/14-himanshu/webhook-orchestrator)
 
 </div>
 
