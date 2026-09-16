@@ -238,19 +238,19 @@
     <g transform="translate(2, 280)">
       <!-- Chip 1 -->
       <rect x="0" y="0" width="124" height="26" rx="6" fill="#07152b" stroke="#38bdf8" stroke-width="1" opacity="0.9"/>
-      <text x="62" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11" font-weight="600" fill="#7dd3fc" text-anchor="middle">⚛️ React · Next.js</text>
+      <text x="62" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11" font-weight="600" fill="#7dd3fc" text-anchor="middle">REACT · NEXT.JS</text>
 
       <!-- Chip 2 -->
       <rect x="134" y="0" width="124" height="26" rx="6" fill="#0e0f2b" stroke="#818cf8" stroke-width="1" opacity="0.9"/>
-      <text x="196" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11" font-weight="600" fill="#c7d2fe" text-anchor="middle">⚡ Node · Express</text>
+      <text x="196" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11" font-weight="600" fill="#c7d2fe" text-anchor="middle">NODE · EXPRESS</text>
 
       <!-- Chip 3 -->
       <rect x="268" y="0" width="118" height="26" rx="6" fill="#180c2b" stroke="#c084fc" stroke-width="1" opacity="0.9"/>
-      <text x="327" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11" font-weight="600" fill="#e9d5ff" text-anchor="middle">🧠 AI &amp; Agents</text>
+      <text x="327" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11" font-weight="600" fill="#e9d5ff" text-anchor="middle">AI · AGENTS</text>
 
       <!-- Chip 4 -->
       <rect x="396" y="0" width="110" height="26" rx="6" fill="#071b1e" stroke="#2dd4bf" stroke-width="1" opacity="0.9"/>
-      <text x="451" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11" font-weight="600" fill="#99f6e4" text-anchor="middle">🐍 Python · C++</text>
+      <text x="451" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11" font-weight="600" fill="#99f6e4" text-anchor="middle">PYTHON · C++</text>
     </g>
   </g>
 

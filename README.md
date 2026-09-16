@@ -6,11 +6,11 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🛰️_Portfolio-060918?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=0d1527)](https://www.himanshupandey.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-060918?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=0d1527)](https://www.himanshupandey.me/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/🪐_LinkedIn-060918?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1527)](https://www.linkedin.com/in/himanshupandey14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-060918?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1527)](https://www.linkedin.com/in/himanshupandey14)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/🛸_GitHub-060918?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d1527)](https://github.com/14-himanshu)
+[![GitHub](https://img.shields.io/badge/GitHub-060918?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d1527)](https://github.com/14-himanshu)
 
 <br/><br/>
 
@@ -42,16 +42,16 @@
 
 <br/>
 
-### 🛰️ `MISSION BRIEFING // FLIGHT LOG`
+### // MISSION BRIEFING : FLIGHT LOG
 
 ```text
-╭───────────────────────────────────────────────────────────────────────────╮
-│  👨‍🚀 PILOT / ENGINEER : Himanshu Pandey                                    │
-│  🪐 BASE COORDINATES  : Earth (India · UTC+5:30)                          │
-│  🛸 CURRENT TRAJECTORY: Full-Stack Engineering, Real-Time Systems & AI    │
-│  🌌 PRIMARY DIRECTIVE : Designing resilient distributed architectures     │
-│  🌟 RECON EXPEDITION  : Mitigated critical SSRF vulnerability in OSS      │
-╰───────────────────────────────────────────────────────────────────────────╯
++-----------------------------------------------------------------------------+
+|  PILOT / ENGINEER   : Himanshu Pandey                                       |
+|  BASE COORDINATES   : Earth (India · UTC+5:30)                              |
+|  CURRENT TRAJECTORY : Full-Stack Engineering, Real-Time Systems & AI       |
+|  PRIMARY DIRECTIVE  : Designing resilient distributed architectures        |
+|  RECON EXPEDITION   : Mitigated critical SSRF vulnerability in OSS          |
++-----------------------------------------------------------------------------+
 ```
 
 <br/>
@@ -66,23 +66,23 @@
 
 <br/>
 
-### 🌌 `AVIONICS & SUBSYSTEMS // TECH STACK`
+### // AVIONICS & SUBSYSTEMS : TECH STACK
 
 <div align="center">
 
-**🛸 Orbital Interface (Frontend Systems)**
+**[ ORBITAL INTERFACE ] — Frontend Systems**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" height="42" alt="Frontend Systems"/>
 
 <br/><br/>
 
-**⚡ Propulsion & Core (Backend & Distributed Data)**
+**[ PROPULSION & CORE ] — Backend & Distributed Data**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,postman&theme=dark" height="42" alt="Backend and Distributed Data"/>
 
 <br/><br/>
 
-**🧠 Flight Computers & Logic (Languages & Intelligence)**
+**[ FLIGHT COMPUTERS & LOGIC ] — Languages & Intelligence**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,ts&theme=dark" height="42" alt="Languages"/>
 <br/>
@@ -94,7 +94,7 @@
 
 <br/><br/>
 
-**🛰️ Navigational Equipment (Tools & Environment)**
+**[ NAVIGATIONAL EQUIPMENT ] — Tools & Environment**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode&theme=dark" height="42" alt="Tools and Environment"/>
 
@@ -112,7 +112,7 @@
 
 <br/>
 
-### 📡 `ORBITAL TELEMETRY // STATS & ACTIVITY`
+### // ORBITAL TELEMETRY : STATS & ACTIVITY
 
 <div align="center">
 
@@ -150,7 +150,7 @@
 
 <br/>
 
-### 🌟 `DEEP SPACE RECON // OPEN SOURCE SECURITY`
+### // DEEP SPACE RECON : OPEN SOURCE SECURITY
 
 <div align="center">
 
@@ -174,14 +174,14 @@
 
 <br/>
 
-### 🚀 `ACTIVE EXPEDITIONS // FEATURED MISSIONS`
+### // ACTIVE EXPEDITIONS : FEATURED MISSIONS
 
 | Mission | Objective & Telemetry | Propulsion & Tech | Status |
 | :--- | :--- | :--- | :---: |
-| 🛰️ **[Slate](https://github.com/14-himanshu/slate)** | High-concurrency real-time collaborative canvas with room-based synchronization and instant state replication. | `React` · `Node.js` · `Socket.IO` · `MongoDB` | [![Inspect](https://img.shields.io/badge/Launch-00d4ff?style=flat-square&logo=github&logoColor=060918)](https://github.com/14-himanshu/slate) |
-| 🧠 **[Second Brain](https://github.com/14-himanshu/secondbrain-monorepo)** | AI-driven personal knowledge platform for semantic document ingestion, contextual memory retrieval & synthesis. | `Next.js` · `TypeScript` · `OpenAI API` · `Tailwind` | [![Inspect](https://img.shields.io/badge/Launch-bf5fff?style=flat-square&logo=github&logoColor=060918)](https://github.com/14-himanshu/secondbrain-monorepo) |
-| ⚡ **[Vitality AI](https://github.com/14-himanshu/vitality-ai)** | Health telemetry & physical analytics platform delivering AI-guided personalized wellness coaching and metric tracking. | `React` · `Tailwind CSS` · `AI Analytics` | [![Inspect](https://img.shields.io/badge/Launch-39ff14?style=flat-square&logo=github&logoColor=060918)](https://github.com/14-himanshu/vitality-ai) |
-| 📡 **[Webhook Orchestrator](https://github.com/14-himanshu/webhook-orchestrator)** | High-throughput event delivery and webhook dispatch engine with exponential backoff retries and idempotent processing. | `Node.js` · `Express` · `Queues` · `REST API` | [![Inspect](https://img.shields.io/badge/Launch-38bdf8?style=flat-square&logo=github&logoColor=060918)](https://github.com/14-himanshu/webhook-orchestrator) |
+| **[Slate](https://github.com/14-himanshu/slate)** | High-concurrency real-time collaborative canvas with room-based synchronization and instant state replication. | `React` · `Node.js` · `Socket.IO` · `MongoDB` | [![Inspect](https://img.shields.io/badge/Launch-00d4ff?style=flat-square&logo=github&logoColor=060918)](https://github.com/14-himanshu/slate) |
+| **[Second Brain](https://github.com/14-himanshu/secondbrain-monorepo)** | AI-driven personal knowledge platform for semantic document ingestion, contextual memory retrieval & synthesis. | `Next.js` · `TypeScript` · `OpenAI API` · `Tailwind` | [![Inspect](https://img.shields.io/badge/Launch-bf5fff?style=flat-square&logo=github&logoColor=060918)](https://github.com/14-himanshu/secondbrain-monorepo) |
+| **[Vitality AI](https://github.com/14-himanshu/vitality-ai)** | Health telemetry & physical analytics platform delivering AI-guided personalized wellness coaching and metric tracking. | `React` · `Tailwind CSS` · `AI Analytics` | [![Inspect](https://img.shields.io/badge/Launch-39ff14?style=flat-square&logo=github&logoColor=060918)](https://github.com/14-himanshu/vitality-ai) |
+| **[Webhook Orchestrator](https://github.com/14-himanshu/webhook-orchestrator)** | High-throughput event delivery and webhook dispatch engine with exponential backoff retries and idempotent processing. | `Node.js` · `Express` · `Queues` · `REST API` | [![Inspect](https://img.shields.io/badge/Launch-38bdf8?style=flat-square&logo=github&logoColor=060918)](https://github.com/14-himanshu/webhook-orchestrator) |
 
 <br/>
 
@@ -195,7 +195,7 @@
 
 <br/>
 
-### 🌠 `STELLAR TRAJECTORY // CONTRIBUTIONS`
+### // STELLAR TRAJECTORY : CONTRIBUTIONS
 
 <div align="center">
 <picture>
@@ -214,5 +214,5 @@
     <img src="./divider.svg" width="100%" alt="---" />
   </picture>
   <br/>
-  <sub><code>“Somewhere, something incredible is waiting to be coded.” · Himanshu Pandey · <a href="https://www.himanshupandey.me/">himanshupandey.me</a></code></sub>
+  <sub><code>Himanshu Pandey · Full-Stack Software Engineer · <a href="https://www.himanshupandey.me/">himanshupandey.me</a></code></sub>
 </div>
