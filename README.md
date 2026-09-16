@@ -33,9 +33,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Architecting+Scalable+Distributed+Systems;Engineering+Autonomous+AI+Agents;Open+Source+Contributor+%26+Deep-Core+Fixer">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Architecting+Scalable+Distributed+Systems;Engineering+Autonomous+AI+Agents;Open+Source+Contributor+%26+Deep-Core+Fixer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Architecting+Scalable+Distributed+Systems;Engineering+Autonomous+AI+Agents;Open+Source+Contributor+%26+Deep-Core+Fixer" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Architecting+Scalable+Distributed+Systems;Engineering+Autonomous+AI+Agents;Designing+High-Performance+Web+Applications">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Architecting+Scalable+Distributed+Systems;Engineering+Autonomous+AI+Agents;Designing+High-Performance+Web+Applications">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Architecting+Scalable+Distributed+Systems;Engineering+Autonomous+AI+Agents;Designing+High-Performance+Web+Applications" alt="Typing SVG" />
 </picture>
 
 </div>
@@ -50,7 +50,7 @@
 |  BASE COORDINATES   : Earth (India · UTC+5:30)                              |
 |  CURRENT TRAJECTORY : Full-Stack Engineering, Real-Time Systems & AI       |
 |  PRIMARY DIRECTIVE  : Designing resilient distributed architectures        |
-|  RECON EXPEDITION   : Mitigated critical SSRF vulnerability in OSS          |
+|  CORE SPECIALTY     : Event-Driven Systems & Scalable Architecture          |
 +-----------------------------------------------------------------------------+
 ```
 
@@ -148,29 +148,6 @@
   </picture>
 </div>
 
-<br/>
-
-### // DEEP SPACE RECON : OPEN SOURCE SECURITY
-
-<div align="center">
-
-[![Rocket.Chat Core Security](https://img.shields.io/badge/Rocket.Chat-Core_Engine_Security_Patch-060918?style=for-the-badge&logo=rocketchat&logoColor=f5455c&labelColor=0d1a35&color=f5455c)](https://github.com/RocketChat/Rocket.Chat/pulls/14-himanshu)
-
-<br/>
-
-> **Mitigation Report**: Diagnosed and mitigated a critical **Server-Side Request Forgery (SSRF)** vulnerability in the core engine, along with resolving React hook state violations across distributed instances.
-
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
-    <img src="./divider.svg" width="100%" alt="---" />
-  </picture>
-</div>
 
 <br/>
 
