@@ -1,0 +1,58 @@
+<svg width="1000" height="36" viewBox="0 0 1000 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cosmic_beam_dark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0" />
+      <stop offset="25%" stop-color="#38bdf8" stop-opacity="0.4" />
+      <stop offset="45%" stop-color="#818cf8" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#d8b4fe" stop-opacity="1" />
+      <stop offset="55%" stop-color="#818cf8" stop-opacity="0.9" />
+      <stop offset="75%" stop-color="#38bdf8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="orbit_glow_dark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#d8b4fe" stop-opacity="0.3" />
+    </linearGradient>
+    <filter id="glow_dark" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes pulse_d {
+        0%, 100% { opacity: 0.2; transform: scale(0.8); }
+        50% { opacity: 1; transform: scale(1.2); }
+      }
+      .star-1 { animation: pulse_d 2.4s ease-in-out infinite; transform-origin: center; }
+      .star-2 { animation: pulse_d 3.1s ease-in-out infinite 0.7s; transform-origin: center; }
+      .star-3 { animation: pulse_d 2.7s ease-in-out infinite 1.4s; transform-origin: center; }
+    </style>
+  </defs>
+
+  <line x1="80" y1="18" x2="920" y2="18" stroke="url(#cosmic_beam_dark)" stroke-width="1.8" stroke-linecap="round" filter="url(#glow_dark)" />
+  <line x1="200" y1="18" x2="800" y2="18" stroke="#c084fc" stroke-width="0.8" stroke-dasharray="8 12" opacity="0.7" />
+
+  <!-- Twinkling Stardust Nodes -->
+  <circle cx="160" cy="14" r="1.5" fill="#38bdf8" class="star-1" />
+  <circle cx="280" cy="22" r="2" fill="#818cf8" class="star-2" />
+  <polygon points="360,13 362.5,18 360,23 357.5,18" fill="#00f0ff" class="star-3" />
+  <circle cx="430" cy="13" r="1.5" fill="#c084fc" class="star-1" />
+
+  <!-- Center Celestial Core -->
+  <g transform="translate(500, 18)">
+    <ellipse cx="0" cy="0" rx="24" ry="8" fill="none" stroke="url(#orbit_glow_dark)" stroke-width="1.4" transform="rotate(-18)" filter="url(#glow_dark)" />
+    <circle cx="0" cy="0" r="11" fill="none" stroke="#00f0ff" stroke-width="0.7" stroke-dasharray="3 3" opacity="0.6" />
+    <circle cx="0" cy="0" r="5" fill="#818cf8" />
+    <circle cx="0" cy="0" r="3" fill="#e0e7ff" />
+    <circle cx="0" cy="0" r="1.5" fill="#ffffff" />
+    <circle cx="20" cy="-6" r="1.5" fill="#00f0ff" class="star-1" />
+  </g>
+
+  <circle cx="570" cy="23" r="1.5" fill="#c084fc" class="star-1" />
+  <polygon points="640,13 642.5,18 640,23 637.5,18" fill="#00f0ff" class="star-3" />
+  <circle cx="720" cy="14" r="2" fill="#818cf8" class="star-2" />
+  <circle cx="840" cy="22" r="1.5" fill="#38bdf8" class="star-1" />
+</svg>
