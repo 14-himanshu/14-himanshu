@@ -10,8 +10,6 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/🪐_LinkedIn-060918?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1527)](https://www.linkedin.com/in/himanshupandey14)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/⚡_LeetCode-060918?style=for-the-badge&logo=leetcode&logoColor=fbbf24&labelColor=0d1527)](https://leetcode.com/u/14-himanshu/)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/🛸_GitHub-060918?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d1527)](https://github.com/14-himanshu)
 
 <br/><br/>
